@@ -25,7 +25,7 @@ git branch
 
 4. Add your code to a folder whose name would be your first name. For instance if my name is `haron` the final structure would be `do-se-interview/haron`
 
-5. Include a comment at the top of the file explaining the purpose and usage of the code.
+5. Include a comment at the top of the file explaining how your code works.
 
 6. If your code snippet or script has any dependencies or requires specific instructions to run, please include them in the file or in a separate README file within the same directory.
 
