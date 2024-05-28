@@ -4,6 +4,7 @@ const reverseString = (s) => {
    // convert the string into array
     s_array = s.split("")
     reversed_s = []
+   // O(n) with n being the length of the string
     for(let i = s_array.length - 1; i >= 0; i--){
       reversed_s.push(s_array[i]
       )
@@ -15,3 +16,4 @@ const reverseString = (s) => {
 // question 3
 // margin is the distance between the parent element border to the child element border 
 // while padding is the distance between the elements border to the start of its elements border.
+// Both margin and padding helps in adding the desired white space in the page layout alongside other css properties.
